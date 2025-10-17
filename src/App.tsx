@@ -187,6 +187,7 @@ export default function LandingAnalyticsMP() {
             </div>
             <div className="flex items-center lg:justify-end">
               <a href="#demo" className="inline-flex items-center justify-center rounded-2xl px-5 py-3 text-base font-semibold bg-neutral-900 text-white hover:bg-neutral-800 shadow">Запросить пилот</a>
+              <p>Стоимость услуг рассчитывается индивидуально/ по запросу</p>
             </div>
           </div>
         </div>
