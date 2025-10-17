@@ -25,7 +25,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
+          # !!! НЕ используем cache: 'npm', т.к. нет lock-файла
 
       - name: Install deps
         run: npm install --no-audit --no-fund
