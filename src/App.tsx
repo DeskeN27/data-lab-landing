@@ -208,7 +208,10 @@ export default function LandingAnalyticsMP() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-sm text-neutral-600 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="text-center sm:text-left">
             <p>© {new Date().getFullYear()} Data Lab. Все права защищены.</p>
-            <p className="text-xs text-neutral-500">ООО «Дата Лаб», Хабаровск · ИНН 2700058793 · ОГРН 1252700013323</p>
+            <p className="text-xs text-neutral-500">Общество с ограниченной ответственностью "ДАТА ЛАБ"</p>
+            <p className="text-xs text-neutral-500">ОГРН: 1252700013323 ИНН: 2700058793</p>
+            <p className="text-xs text-neutral-500">680009, Хабаровский край, г. о. город Хабаровск, г. Хабаровск, пер. Промышленный, д. 2, помещ. 6</p>
+            <p className="text-xs text-neutral-500">ОКВЭД: Вид деятельности компании - разработка компьютерного программного обеспечения (62.01)</p>
           </div>
           <div className="flex items-center gap-4">
             <a href="#" className="hover:text-neutral-800">Политика конфиденциальности</a>
