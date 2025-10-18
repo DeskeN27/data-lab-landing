@@ -533,12 +533,8 @@ export default function LandingAnalyticsMP() {
             </p>
           </div>
           <div className="flex items-center gap-4">
-            <a href="#" className="hover:text-neutral-800">
-              Политика конфиденциальности
-            </a>
-            <a href="#" className="hover:text-neutral-800">
-              Пользовательское соглашение
-            </a>
+            <a href="privacy.html" className="hover:text-neutral-800">Политика конфиденциальности</a>
+            <a href="terms.html" className="hover:text-neutral-800">Пользовательское соглашение</a>
           </div>
         </div>
       </footer>
